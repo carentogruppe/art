@@ -40,5 +40,17 @@
     "metro-react-native-babel-preset": "^0.54.1",
     "react": "16.8.3",
     "react-native": "0.59.9"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carentogruppe/art.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carentogruppe/art/issues"
   }
 }
